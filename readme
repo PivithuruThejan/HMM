@@ -1,3 +1,14 @@
+first implementation:
+
+input sequence is in file 'input'
+
+output sequence is in file 'output.txt'
+
+run CPG_Island_Detection.py file
+
+---------------------------------------------------------------------------------------------------------------
+second implementation:
+
 Install libraries : hmmlearn
                     numpy
                   
