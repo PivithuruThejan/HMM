@@ -1,0 +1,8 @@
+Install libraries : hmmlearn
+                    numpy
+                  
+input sequence is in file 'input'
+
+output sequence is in file 'output.txt'
+
+run HMM_For_CPG_Island_Detection.py file
